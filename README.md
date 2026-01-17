@@ -41,7 +41,7 @@ Ankit Gundewar Github Profile
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics&hide_border=false&theme=react"
+    src="https://github-readme-stats.vercel.app/api?username=AnkitG0204show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics&hide_border=false&theme=react"
   />
 </p>
 
@@ -49,7 +49,7 @@ Ankit Gundewar Github Profile
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&custom_title=My%20Programming%20Languages&hide_border=false&theme=react"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitG0204&layout=compact&langs_count=8&custom_title=My%20Programming%20Languages&hide_border=false&theme=react"
   />
 </p>
 
@@ -58,13 +58,13 @@ Ankit Gundewar Github Profile
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ankitgundewar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:ankitjg0204@gmail.com">
     <img src="https://img.shields.io/badge/YOUR_EMAIL@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/AnkitG0204">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
