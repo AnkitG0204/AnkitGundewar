@@ -1,0 +1,21 @@
+name: README stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate cards
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          username: AnkitG0204
+          output_dir: assets/stats
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update readme stats"
