@@ -57,8 +57,7 @@ Ankit Gundewar Github Profile
   <a href="mailto:ankitjg0204@gmail.com">
     <img src="https://img.shields.io/badge/ankitjg0204@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AnkitG0204">
+  <a href="https://github.com/AnkitGundewar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
----
